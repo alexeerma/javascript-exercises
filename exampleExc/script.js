@@ -27,9 +27,7 @@ content.appendChild(para2);
 container.appendChild(content);
 
 //adding the css
-var stiil = document.getElementsByClassName('titl-css');
-stiil.innerHTML = "h3 {color:blue;}";
-content.appendChild(sheet);
+
 
 
 
